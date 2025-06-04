@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/78d4c520-29dc-4121-8968-97874f87102e)
+![image](https://github.com/user-attachments/assets/ef19141d-8176-4933-8b56-ba550dc59c53)![github-header-image](https://github.com/user-attachments/assets/78d4c520-29dc-4121-8968-97874f87102e)
 
 <p align="center">I'm passionate developer who loves building useful, user-friendly, and meaningful digital solutions. I specialize in [MERN, Web Development, JavaScript, Node.js, MongoDB] and enjoy exploring new technologies and frameworks. Always learning something new — from open source contributions to personal experiments and side projects. I'm an aspiring DevOps Engineer with a passion for automating, optimizing, and scaling software systems.</p>
 
@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi198511maurya" alt="abhi198511maurya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhimaurya1985" target="blank"><img src="https://img.shields.io/twitter/follow/abhimaurya1985?logo=twitter&style=for-the-badge" alt="abhimaurya1985" /></a> </p>
+
+<img align="right" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
 
 - 🔭 I’m currently working on **Doctor Appointment Booking Web App**
 
