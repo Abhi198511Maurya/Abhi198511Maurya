@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef19141d-8176-4933-8b56-ba550dc59c53)![github-header-image](https://github.com/user-attachments/assets/78d4c520-29dc-4121-8968-97874f87102e)
+![github-header-image](https://github.com/user-attachments/assets/78d4c520-29dc-4121-8968-97874f87102e)
 
 <p align="center">I'm passionate developer who loves building useful, user-friendly, and meaningful digital solutions. I specialize in [MERN, Web Development, JavaScript, Node.js, MongoDB] and enjoy exploring new technologies and frameworks. Always learning something new — from open source contributions to personal experiments and side projects. I'm an aspiring DevOps Engineer with a passion for automating, optimizing, and scaling software systems.</p>
 
