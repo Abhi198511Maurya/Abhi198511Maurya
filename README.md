@@ -80,10 +80,8 @@
 **Tools:**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%234B6A6A.svg?style=for-the-badge&logo=sublime-text&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi198511maurya&show_icons=true&locale=en&layout=compact" alt="abhi198511maurya" /></p>
 
